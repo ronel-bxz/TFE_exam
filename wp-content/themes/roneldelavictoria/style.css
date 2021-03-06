@@ -1,0 +1,47 @@
+/*
+Theme Name: TFE exam theme
+Author: Ronel D dela Victoria
+License: GNU General Public License v2 or later
+*/
+html{
+	margin-top: 0px !important;
+}
+#menu-header_menu li{
+	display: inline-block;
+}
+.woocommerce div.product div.images.woocommerce-product-gallery{
+opacity:1 !important;
+}
+
+figure {
+display: block;
+margin-top: 0em;
+margin-bottom: 0em;
+margin-left: 0px;
+margin-right: 0px;
+}
+.cart-customlocation{
+	color: #fff;
+}
+.woocommerce form .form-row{
+	display: block;
+}
+.mini-cart{
+	position: absolute;
+    right: 15px;
+    top: 40px;
+    background-color: #fff !important;
+    display: none;
+    width: 300px;
+    border: 1px solid #969494;
+
+}
+.mini-cart ul li a img{
+	width: 30px;
+}
+.header-right-content li{
+	display: inline-block;
+}
+.navbar-light .navbar-nav .nav-link{
+	font-size: 14px !important;
+}
